@@ -31,15 +31,14 @@ By repeating this process for different spectral lines, you can determine the wa
 
 It is important to note that the accuracy of this method is dependent on the quality of the grating and the precision of the measurements.<br><br>
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. ASHUTOSH TIWARI 
 :--|:--|
-<b> Institute | Rahul Pushpakar<b>  
-<b> Email id|     rahulpushpker@gmail.com<b>  
+<b> Institute | RAJKIYA ENGINEERING COLLEGE BANDA<b>  
+<b> Email id|     ashutosh.tiwari@recbanda.ac.in<b>  
 <b> Department |  Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. ASHUTOSH TIWARI | FACULTY | APPLIED SCIENCE | RAJKIYA ENGINEERING COLLEGE BANDA | ashutosh.tiwari@recbanda.ac.in
-2 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
+1 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
