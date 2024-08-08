@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The optical element used to split a poly-chromatic light into its constituent component colors is called-",
+      "question": "2. The optical element used to split a poly-chromatic light into its constituent component colors is called-",
       "answers": {
         "a": "Spectrum",
         "b": "Diffraction grating",
@@ -29,6 +29,91 @@
       "explanations": {
         "a": "Explanation 2",
         "b": "Explanation 1  <a href='https://testbook.com/question-answer/the-optical-element-used-to-split-a-poly-chromatic--605f0dbc6d3c10e1fe118483#:~:text=The%20correct%20answer%20is%20option%201)%20i.e.%20Diffraction%20grating.'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is the primary instrument used to measure the angles of diffraction in the experiment to determine the wavelength of different spectral lines of mercury light using a plane transmission grating?",
+      "answers": {
+        "a": "Telescope",
+        "b": "Spectrometer",
+        "c": "Microscope",
+        "d": "Calorimeter"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <Spectrometer",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which light source is typically used in the experiment to determine the wavelength of different spectral lines of mercury light using a plane transmission grating?",
+      "answers": {
+        "a": "Sodium lamp",
+        "b": "Hydrogen discharge tube",
+        "c": "Mercury lamp",
+        "d": "Incandescent bulb"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <Mercury lamp>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the optical component used to disperse the light into its constituent colors in the experiment to determine the wavelength of different spectral lines of mercury light using a plane transmission grating?",
+      "answers": {
+        "a": "Prism",
+        "b": "Lens",
+        "c": "Plane transmission grating",
+        "d": "Concave mirror"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <Plane transmission grating>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. The formula used to calculate the wavelength of a spectral line in the experiment involves the grating element, angle of diffraction, and order of the spectrum. What is this formula?",
+      "answers": {
+        "a": "(a+b)sinθ = nλ",
+        "b": "λ = d sinθ / n",
+        "c": "nλ = d cosθ",
+        "d": "λ = d / (n sinθ)"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <λ = d sinθ / n>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which of the following are the most common colors observed in the mercury spectrum?",
+      "answers": {
+        "a": "Red, green, and blue",
+        "b": "Violet, green, yellow, and red",
+        "c": "Orange, yellow, and green",
+        "d": "Indigo, blue, and violet"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <Violet, green, yellow, and red>",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
