@@ -45,7 +45,7 @@
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "Explanation 1  <Spectrometer",
+        "b": "Spectrometer",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
@@ -61,10 +61,10 @@
         "d": "Incandescent bulb"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 1  <Mercury lamp>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Mercury lamp",
+        "b": "Mercury lamp",
+        "c": "Mercury lamp",
+        "d": "Mercury lamp"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "Concave mirror"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 1  <Plane transmission grating>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Plane transmission grating",
+        "b": "Plane transmission grating",
+        "c": "Plane transmission grating",
+        "d": "Plane transmission grating"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -96,7 +96,7 @@
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "Explanation 1  <λ = d sinθ / n>",
+        "b": "λ = d sinθ / n",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
@@ -113,7 +113,7 @@
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "Explanation 1  <Violet, green, yellow, and red>",
+        "b": "Violet, green, yellow, and red",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
