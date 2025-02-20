@@ -4,7 +4,7 @@ The procedure to determine the wavelength of different spectral lines of mercury
 3. Observe the diffracted light on the screen and identify the spectral lines of mercury light.<br>
 4. Measure the angle between the incident light and the diffracted light for a particular spectral line.<br>
 5. Use the formula for grating equation to calculate the wavelength of the spectral line:<br><br>
-          sin(Θ) = nλ / d
+   sin(Θ) = nλ / d
 <br><br>
 where,<br>
 `Θ` is the angle between the incident light and the diffracted light, <br>
