@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Determine the wavelength of spectral lines using plane-transmission grating",
+      "answers": {
+        "a": "Liner Displacement Measurement",
+        "b": "Surface flatness measurement ",
+        "c": "Angular measurement",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. If the number of lines of a grating increase, its resolving power-",
+      "answers": {
+        "a": "increases",
+        "b": "decreases",
+        "c": "both a and b",
+        "d": "does not change"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The optical element used to split a poly-chromatic light into its constituent component colors is called-",
+      "answers": {
+        "a": "Diffraction grating",
+        "b": "Spectrum",
+        "c": "Total internal reflection",
+        "d": "Reflection"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The condition for observing Fraunhofer diffraction from a single slit is that the wavefront incident on the slit should be",
+      "answers": {
+        "a": "Plane",
+        "b": "Cylindrical",
+        "c": "Spherical",
+        "d": "Elliptical"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

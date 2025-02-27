@@ -1,0 +1,15 @@
+
+/home/runner/work/exp-plane-transmission-grating-iitk/exp-plane-transmission-grating-iitk/experiment/simulation/js/main.js
+   6:10  warning  'openNav' is defined but never used   no-unused-vars
+  11:10  warning  'closeNav' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-plane-transmission-grating-iitk/exp-plane-transmission-grating-iitk/experiment/simulation/js/section2.js
+   38:9  warning  'greenLine' is not defined                         no-undef
+   39:9  warning  'violetLine' is not defined                        no-undef
+   40:9  warning  'yellowLine' is not defined                        no-undef
+   59:9  warning  'whiteVisible' is assigned a value but never used  no-unused-vars
+  730:9  warning  'alertcount' is assigned a value but never used    no-unused-vars
+  749:7  warning  Move function declaration to function body root    no-inner-declarations
+
+✖ 8 problems (0 errors, 8 warnings)
+
